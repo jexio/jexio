@@ -1,4 +1,4 @@
-<h2 align="left">Hi there 👋 <br><br>I'm Gleb, a full-time ml/backend developer</h2>
+<h2 align="left">Hi there 👋 <br><br>I'm Gleb, a full-time backend developer and machine learning engineer</h2>
 
 ###
 
